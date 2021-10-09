@@ -1,0 +1,36 @@
+#homeBody{ 
+    background-image: url(https://d1csarkz8obe9u.cloudfront.net/posterpreviews/pizza-delivery-instagram-post-advertisement-design-template-3cc4fd2d74882bdba12ba7c94dfc54e6_screen.jpg?ts=1589826938);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: -180px;
+}
+.homeDivButtons{
+    margin-left: 18%;
+    color: white;
+    background-color: transparent;
+    padding: 15px 32px;
+}
+#menuBody{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdzxs7gxHKMYWPHQ5E_A1Wvr95kUKEPCyW6g&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pizzas{
+    margin-left: 60%;
+}
+.pizza2{
+    margin-left: 50%;
+}
+.nOfP{
+    width: 40px;
+    margin-left: 60%;
+}
+.pizzaName{
+    margin-left: 60%;
+    color: white;
+}
+.pizzaM{
+    margin-left: 60%;
+    color: green;
+}
