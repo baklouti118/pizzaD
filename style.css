@@ -17,9 +17,6 @@
     background-attachment: fixed;
 }
 .pizzas{
-    margin-left: 60%;
-}
-.pizza2{
     margin-left: 50%;
 }
 .nOfP{
@@ -33,4 +30,14 @@
 .pizzaM{
     margin-left: 60%;
     color: green;
+}
+.resPizza{
+    width: 200px;
+    height: 200px;
+}
+.numberOfPizza{
+    margin-left: 85px;
+}
+#billDiv{
+    back
 }
