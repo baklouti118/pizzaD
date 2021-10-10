@@ -20,6 +20,7 @@
     margin-left: 50%;
 }
 .nOfP{
+    background-color: #b3b3b3;
     width: 40px;
     margin-left: 60%;
 }
@@ -34,10 +35,54 @@
 .resPizza{
     width: 200px;
     height: 200px;
+    margin-left: 1100px;
 }
 .numberOfPizza{
-    margin-left: 85px;
+    margin-left: 1180px;
+    color: thistle;
 }
 #billDiv{
-    back
+    background-color: #b3b3b3;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 615px;
+    border: 1px solid #c4ffc4;
+    padding: 0em 1em;
+    border-radius: 16px;
 }
+#billDiv2{
+    background-color: #b3b3b3;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 428px;
+    margin-right: 430px;
+    border: 1px solid #c4ffc4;
+    padding: 0em 1em;
+    border-radius: 16px;
+ }
+ #number{
+    background-color: #b3b3b3; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 630px;
+    margin-top: 60px;
+ }
+ #tel {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-left: 370px;
+    margin-top: 60px;
+ }
