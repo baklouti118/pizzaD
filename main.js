@@ -1,5 +1,5 @@
 function submitA(){
-    if($('#n1').val() === '' && $('#n1').val() === '' && $('#n1').val() === '') {
+    if($('#n1').val() === '' && $('#n2').val() === '' && $('#3').val() === '') {
         alert("you didnt shose a pizza please try again")
     }
     if($('#n1').val() > 50 || $('#n2').val() > 50 || $('#n3').val() > 50) {
@@ -12,7 +12,7 @@ function submitA(){
         alert("please dont forget to enter your phone number or retchekt ")
     }
     else if($('#n1').val() >= 0 && $('#n2').val() >= 0 && $('#n3').val() >= 0 && $('#tel').val().length === 8 && $('#tel').val() !== '') {
-        if($('#n1').val() !== '' || $('#n1').val() !== '' || $('#n1').val() !== ''){
+        if($('#n1').val() !== '' || $('#n2').val() !== '' || $('#n3').val() !== ''){
         var phoneN = $('#tel').val()
         var res = $("<div id = 'billDiv'><h1></h1></div>")
         var res2 = $("<div id = 'billDiv2'><h1></h1></div>")
